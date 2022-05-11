@@ -11,9 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.10.7",
-    "nodemon": "^2.0.4"
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.4",
+    "serve-static": "^1.15.0"
   }
 }
